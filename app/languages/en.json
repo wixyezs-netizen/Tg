@@ -1,0 +1,15 @@
+{
+  "start": "👋 Hello, {name}! Welcome to Telegram Premium, Stars & NFT Store!\n\n💎 Prices below market\n⚡ Instant delivery\n🔒 Secure Yoomoney payment",
+  "main_menu": "🛒 **Main Menu**\n\nChoose category:",
+  "premium_title": "💎 **Telegram Premium**",
+  "premium_desc": "📅 Choose subscription duration:\n💰 Prices below official!",
+  "stars_title": "⭐ **Telegram Stars**",
+  "stars_desc": "⭐ Choose stars amount:\n💰 1 Star = 1₽ (market price is higher!)",
+  "nft_title": "🖼️ **NFT Collection**",
+  "nft_desc": "🖼️ Exclusive NFTs below market:\n🔥 Limited collections",
+  "payment_title": "🛒 **Order Confirmation**",
+  "payment_desc": "💳 Payment via Yoomoney\n🔒 100% secure",
+  "success_payment": "✅ **Payment successful!**\n\n📦 Product: {product}\n💰 Amount: {price}₽\n\n🚀 Delivery within 24 hours!",
+  "admin_stats": "📊 **Bot Statistics**\n\n👥 Users: {users}\n🛒 Orders: {orders}\n💰 Revenue: {revenue}₽",
+  "help": "📖 **Help**\n\n/start – Main menu\n/help – This help\n/admin – Admin panel (for admins)"
+}
